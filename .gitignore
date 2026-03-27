@@ -1,0 +1,14 @@
+# folders
+uploads/
+output_videos/
+input_videos/
+csv_files/
+services/textile/
+
+# model files
+*.pt
+
+# optional
+node_modules/
+dist/
+.env
